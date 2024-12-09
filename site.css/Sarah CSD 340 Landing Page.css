@@ -47,6 +47,7 @@ aside nav ul li {
 aside nav ul li a {
     color: white;
     text-decoration: none;
+    font-size: 1.2em;  /* Increased font size */
 }
 
 main {
